@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My is Leon a BSIT Student at ICCT Colleges interested in all things C#, C++ & any Game developement related
+
+- 🔭 I’m currently working on [Bot-Arena]([Link](https://play.unity.com/en)), a game that challenges players' endurance.
+- 🌱 I familiarizing myself with [UNITY](https://play.unity.com/en).
+- 👯 I’m looking to collaborate on Making Games!
+  - Send ideas to Leon.Rabano@gmail.com
+
 <!--
 **LeonGD3D/LeonGD3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
