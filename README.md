@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My is Leon a BSIT Student at ICCT Colleges interested in all things C#, C++ & any Game developement related
+My is Leon a BSIT Student at ICCT Colleges interested in all things C#, C++ & any game developement related.
 
 - 🔭 I’m currently working on [Bot-Arena]([Link](https://play.unity.com/en)), a game that challenges players' endurance.
 - 🌱 I familiarizing myself with [UNITY](https://play.unity.com/en).
