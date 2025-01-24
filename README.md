@@ -6,7 +6,6 @@ My is Leon a BSIT Student at ICCT Colleges interested in all things C#, C++ & an
 - 🌱 I familiarizing myself with [UNITY](https://play.unity.com/en).
 - 👯 I’m looking to collaborate on Making Games!
   - Send ideas to Leon.Rabano@gmail.com
-- [![roadmap.sh](https://roadmap.sh/card/tall/67916a6a98c00f71172ea6d3?variant=dark&roadmaps=game-developer)](https://roadmap.sh)
 
 <!--
 **LeonGD3D/LeonGD3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
